@@ -14,7 +14,7 @@
 
 - 웹 : html, css, js
 - 앱 : Android, java, kotlin, flutter, dart
-- C언어는 코딩을 할때 가장 처음으로 공부해본 언어 입니다
+- C언어는 코딩을 배울때 가장 처음으로 공부해본 언어이기 때문에 넣었습니다
 
 <br/>
 📚PROJECT <br/>
